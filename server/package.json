@@ -1,8 +1,8 @@
 {
-  "name": "learning-lab",
+  "name": "qazi-gun-node",
   "private": true,
   "version": "1.0.0",
-  "main": "package.json",
+  "main": "server.js",
   "license": "UNLICENSED",
   "scripts": {
     "dev": "sanity dev",
